@@ -1,0 +1,3 @@
+name: keycloak-iac-typescript
+runtime: nodejs
+description: Pulumi stack to manage a Keycloak realm and its clients
